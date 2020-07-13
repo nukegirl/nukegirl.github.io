@@ -8,7 +8,7 @@ permalink: /about/
 
 ### Who we are
 
-We are an established IOT, AI and other IT service provider since 1997. 
+We are an established IOT, AI and other IT service provider since 1997 located in Dubai, United Arab Emirates. 
 
 ### What we do
 
